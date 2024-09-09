@@ -1,4 +1,4 @@
-## Hi there friends 👋
+# Hi, I'm Lindo. Nice to see you here! 👋
 
 <!--
 **lindowaves/lindowaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
