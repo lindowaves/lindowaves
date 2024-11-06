@@ -1,8 +1,4 @@
-```kotlin
-if (youWant() == true) {
-  youCan()
-} else {youCant()}
-```
+# Nam Angazi :(
 
 <!--# Hi, I'm Lindo. Nice to see you here! 👋
 
